@@ -1,0 +1,3 @@
+C:/workspace/reti/3.UDP/1.struct/endtest/cmake-build-debug/CMakeFiles/endtest.dir
+C:/workspace/reti/3.UDP/1.struct/endtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/workspace/reti/3.UDP/1.struct/endtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

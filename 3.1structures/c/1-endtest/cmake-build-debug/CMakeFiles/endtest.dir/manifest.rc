@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/workspace/reti/3.UDP/1.struct/endtest/cmake-build-debug/CMakeFiles/endtest.dir/embed.manifest"

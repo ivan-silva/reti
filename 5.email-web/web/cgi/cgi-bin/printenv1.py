@@ -1,0 +1,8 @@
+print('Inserire il mome di una variabile di ambiente:')
+print('<form  action="http://${SERVER_NAME}${SCRIPT_NAME}" method="GET" />')
+print('<input type="text"  NAME="param" SIZE="15" MAXLENGTH="15" />')
+print('<input type="submit" VALUE="    Ok    ">')
+print('</form>')
+print('<hr>')
+print('<pre>')
+print('EOF')
